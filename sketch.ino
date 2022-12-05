@@ -1,4 +1,5 @@
 #include<Servo.h>
+int i;
 Servo servo;
 void setup() {
   servo.attach(8);
